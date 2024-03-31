@@ -1,0 +1,16 @@
+/* CSS styles for the quiz website */
+.option {
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+  }
+  
+  .option:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .selected {
+    background-color: #aaf;
+  }
+  
